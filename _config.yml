@@ -49,8 +49,6 @@ collections:
         output: true
     assignments:
         output: false
-    announcements:
-        output: false
 
 
 defaults:
